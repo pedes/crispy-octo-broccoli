@@ -21,7 +21,9 @@ Proposed
 
 ## Consequences
 
-[Describe the consequences, both positive and negative, of the decision, including any risks or dependencies.]
+- Don't include a logger inside of Async component
+- Use an external logging system like Kibana ELK
+- Perhaps use JSON Logging Mule
 
 ## Related documents
 
